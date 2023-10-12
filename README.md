@@ -13,17 +13,17 @@ It's very recommended to use pyinstaller on the provided .py file to create a no
 Additional recommendations for future features are included in the "Todo List" segment of the code.
 
 ### Links -
-WMIC installation for Ubuntu:
+WMIC installation for Ubuntu: <br>
 https://www.shellandco.net/wmic-command-ubuntu-16-04-lts/
 
-wmi_client_parser:
-PYPI- https://pypi.org/project/wmi-client-wrapper/
+wmi_client_parser: <br>
+PYPI- https://pypi.org/project/wmi-client-wrapper/ <br>
 Github- https://github.com/kanzure/python-wmi-client-wrapper
 
-WMI from Linux:
+WMI from Linux: <br>
 https://www.krenger.ch/blog/wmi-commands-from-linux/
 
-WMI from Linux using Python:
+WMI from Linux using Python: <br>
 https://adamtheautomator.com/python-wmi/
 
 Please tell me if you have any trouble 🦆
