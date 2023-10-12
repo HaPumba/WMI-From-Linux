@@ -1,12 +1,11 @@
 ## WMI-From-Linux
 ### Dependences-
-  * Python 2.7
-  * Modules - 
-1. threading (included with python)
-2. argparse
-3. wmi_client_wrapper
-
-  * WMIC Client for linux (installation guide linked below)
+* Python 2.7
+* Python Modules -
+  * threading (included with python)
+  * argparse
+  * wmi_client_wrapper
+* WMIC Client for linux (installation guide linked below)
 
 ### Recomendeations-
 A help manual could be found by running the program with the -h parameter.
